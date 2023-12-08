@@ -1,4 +1,4 @@
-import NavBar from "../../NavBar/NavBar";
+import NavBar from "../NavBar/NavBar";
 
 import TopContent from "./TopContent";
 import Territories from "./Destinations";
