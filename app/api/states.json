@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "name": "Odisha",
+        "caption": "India's best kept secret.",
+        "image": "https://images.pexels.com/photos/14862819/pexels-photo-14862819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "OD"
+    },
+    {
+        "id": 2,
+        "name": "Maharashtra",
+        "image": "https://images.pexels.com/photos/2409953/pexels-photo-2409953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "MH"
+    },
+    {
+        "id": 3,
+        "name": "Gujarat",
+        "image": "https://images.pexels.com/photos/7915296/pexels-photo-7915296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "GJ"
+    },
+    {
+        "id": 4,
+        "name": "Jharkhand",
+        "image": "https://images.pexels.com/photos/17971746/pexels-photo-17971746/free-photo-of-coal-mines-in-dhanbad-jharkhand.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "JH"
+    },
+    {
+        "id": 5,
+        "name": "Chattisgarh",
+        "image": "https://cdn.pixabay.com/photo/2018/07/02/09/08/boat-3511183_1280.jpg",
+        "code": "CT"
+    },
+    {
+        "id": 6,
+        "name": "Bihar",
+        "image": "https://images.pexels.com/photos/11765171/pexels-photo-11765171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "BR"
+    },
+    {
+        "id": 7,
+        "name": "Telangana",
+        "image": "https://images.pexels.com/photos/12354645/pexels-photo-12354645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "TG"
+    },
+    {
+        "id": 8,
+        "name": "Uttar Pradesh",
+        "image": "https://images.pexels.com/photos/16753416/pexels-photo-16753416/free-photo-of-taj-mahal-agra-uttar-pradesh-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "UP"
+    },
+    {
+        "id": 9,
+        "name": "Madhya Pradesh",
+        "image": "https://images.pexels.com/photos/7184626/pexels-photo-7184626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "MP"
+    },
+    {
+        "id": 10,
+        "name": "Haryana",
+        "image": "https://images.pexels.com/photos/6361880/pexels-photo-6361880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "HR"
+    },
+    {
+        "id": 11,
+        "name": "Jammu & Kashmir",
+        "image": "https://images.pexels.com/photos/8981618/pexels-photo-8981618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "JK"
+    },
+    {
+        "id": 13,
+        "name": "Punjab",
+        "image": "https://images.pexels.com/photos/7111002/pexels-photo-7111002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "PB"
+    },
+    {
+        "id": 14,
+        "name": "Delhi",
+        "image": "https://images.pexels.com/photos/2349168/pexels-photo-2349168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "DL"
+    },
+    {
+        "id": 15,
+        "name": "Himachal Pradesh",
+        "image": "https://images.pexels.com/photos/3276841/pexels-photo-3276841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "HP"
+    },
+    {
+        "id": 16,
+        "name": "Andhra Pradesh",
+        "image": "https://images.pexels.com/photos/6198969/pexels-photo-6198969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2kerala",
+        "code": "AP"
+    },
+    {
+        "id": 17,
+        "name": "Kerala",
+        "image": "https://images.pexels.com/photos/8462313/pexels-photo-8462313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "KL"
+    },
+    {
+        "id": 18,
+        "name": "Tamil Nadu",
+        "image": "https://images.pexels.com/photos/14353572/pexels-photo-14353572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "TN"
+    },
+    {
+        "id": 19,
+        "name": "Puducherry",
+        "image": "https://images.pexels.com/photos/12094129/pexels-photo-12094129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "PY"
+    },
+    {
+        "id": 20,
+        "name": "Lakshadweep",
+        "image": "https://images.pexels.com/photos/14646510/pexels-photo-14646510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "LD"
+    },
+    {
+        "id": 21,
+        "name": "Sikkim",
+        "image": "https://images.pexels.com/photos/14916663/pexels-photo-14916663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "SK"
+    },
+    {
+        "id": 22,
+        "name": "Andaman & Nicobar Islands",
+        "image": "https://images.pexels.com/photos/18411350/pexels-photo-18411350/free-photo-of-small-islands-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "AN"
+    },
+    {
+        "id": 23,
+        "name": "Assam",
+        "image": "https://cdn.pixabay.com/photo/2014/08/03/15/12/fishing-409138_1280.jpg",
+        "code": "AS"
+    },
+    {
+        "id": 24,
+        "name": "Mizoram",
+        "image": "https://cdn.pixabay.com/photo/2020/06/14/15/55/landscape-5298396_1280.jpg",
+        "code": "MZ"
+    },
+    {
+        "id": 25,
+        "name": "Manipur",
+        "image": "https://cdn.pixabay.com/photo/2020/05/06/17/11/nature-5138345_1280.jpg",
+        "code": "MN"
+    },
+    {
+        "id": 26,
+        "name": "Tripura",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/97/04/40/main-palace.jpg?w=1000&h=-1&s=1",
+        "code": "TR"
+    },
+    {
+        "id": 27,
+        "name": "Uttarakhand",
+        "image": "https://images.pexels.com/photos/8343731/pexels-photo-8343731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "UT"
+    },
+    {
+        "id": 28,
+        "name": "Nagaland",
+        "image": "https://images.pexels.com/photos/8061291/pexels-photo-8061291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "NL"
+    },
+    {
+        "id": 29,
+        "name": "Rajasthan",
+        "image": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "RJ"
+    },
+    {
+        "id": 30,
+        "name": "Goa",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1400&h=900&s=1",
+        "code": "GA"
+    },
+    {
+        "id": 31,
+        "name": "Meghalaya",
+        "image": "https://images.pexels.com/photos/11622977/pexels-photo-11622977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "ML"
+    },
+    {
+        "id": 32,
+        "name": "Arunachal Pradesh",
+        "image": "https://pyt-blogs.imgix.net/2020/06/Tawang_Gate-2-scaled.jpg?auto=format&ixlib=php-3.3.0",
+        "code": "AR"
+    },
+    {
+        "id": 33,
+        "name": "Daman & Diu",
+        "image": "https://images.pexels.com/photos/17574387/pexels-photo-17574387/free-photo-of-black-and-white-lighthouse.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "DD"
+    },
+    {
+        "id": 34,
+        "name": "West Bengal",
+        "image": "https://images.pexels.com/photos/13207723/pexels-photo-13207723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "WB"
+    },
+    {
+        "id": 35,
+        "name": "Karnataka",
+        "image": "https://images.pexels.com/photos/7417029/pexels-photo-7417029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": "KA"
+    },
+    {
+        "id": 36,
+        "name": "Chandigarh",
+        "image": "https://thumbs.dreamstime.com/z/marigold-flower-art-rose-festival-chandigarh-visitors-admiring-posing-picture-zakir-hussain-garden-sector-66994554.jpg?w=768",
+        "code": "CH"
+    },
+    {
+        "id": 12,
+        "name": "Ladakh",
+        "image": "https://images.pexels.com/photos/6650419/pexels-photo-6650419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "code": ""
+    }
+]

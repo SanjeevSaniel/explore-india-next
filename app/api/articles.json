@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "title": "Google Pixel Watch 2 launched in India with new sensors, better battery life: Check price, specs",
+        "description": "The new Google Pixel Watch 2 has been launched in India and it is priced at Rs 39,900. As part of the launch offer, those who will buy the new Pixel 8 will be able to get this smartwatch at a discounted price.",
+        "caption": "Google Pixel Watch 2",
+        "topic": "tech",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/google-pixel-watch-2-04051067-16x9.jpg?VersionId=ojcpp6y1KVkTxttUzv5nK2kTUWINI0A3&size=690:388",
+        "publisher": "India Today",
+        "logo": "",
+        "date": "October 4, 2023"
+    },
+    {
+        "id": 2,
+        "title": "A 74-year-old man lost $50,000 life savings after downloading an app to order Peking duck",
+        "description": "A Singaporean man was tricked into downloading an app to order Peking duck, and then lost $50,000 in savings to scammers, according to local media.",
+        "caption": "A 74-year-old man lost $50,000 life savings",
+        "topic": "tech",
+        "image": "https://i.insider.com/5ac3eace7a74af1a008b468e?width=1300&format=jpeg&auto=webp",
+        "publisher": "Insider",
+        "date": "October 3, 2023"
+    },
+    {
+        "id": 3,
+        "title": "2 Weeks Backpacking South Korea Itinerary In 2023",
+        "description": "A Complete Travel Guide And Backpacking Route",
+        "caption": "2 Weeks Backpacking South Korea Itinerary In 2023",
+        "topic": "travel",
+        "image": "https://cdn.pixabay.com/photo/2020/06/11/11/52/korean-folk-village-5286449_1280.jpg",
+        "publisher": "BucketListly Blog",
+        "date": "September 24, 2023"
+    },
+    {
+        "id": 4,
+        "title": "Bond yields could race through 5% in next couple of weeks, market forecaster Jim Bianco warns",
+        "description": "Wall Street forecaster Jim Bianco expects Treasury yields to go a lot higher — and possibly overshoot through 5% in the next couple of weeks.",
+        "caption": "Bond yields could race through 5% in next couple of weeks, market forecaster Jim Bianco warns",
+        "topic": "finance",
+        "image": "https://image.cnbcfm.com/api/v1/image/102141322-bond-traders-cme-2.jpg?v=1696378358&w=600&h=300&ffmt=webp&vtcrop=y",
+        "publisher": "CNBC",
+        "date": "October 4, 2023"
+    },
+    {
+        "id": 5,
+        "title": "10 Best Things To Do In Penang In 2023",
+        "description": "A Complete Guide To Backpacking Penang",
+        "caption": "Penang is an island off the coast of the Malaysian peninsula that will surprise you with its stunning tourist attractions.",
+        "topic": "travel",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9f/b7/98/photo8jpg.jpg?w=1400&h=900&s=1",
+        "publisher": "BucketListly Blog",
+        "social": [
+            {
+                "id": 1,
+                "name": "youtube",
+                "url": "https://www.youtube.com/@bucketlistly",
+                "ariaLabel": "Navigate to BucketListly's Youtube Page"
+            },
+            {
+                "id": 2,
+                "name": "instagram",
+                "url": "https://www.instagram.com/peachananr",
+                "ariaLabel": "Navigate to BucketListly's Instagram Page"
+            }
+        ],
+        "date": "September 15, 2023"
+    },
+    {
+        "id": 6,
+        "title": "10 Days Mae Hong Son Loop Itinerary In 2023",
+        "description": "A Complete Travel Guide And Backpacking Route",
+        "caption": "10 Days Mae Hong Son Loop Itinerary In 2023",
+        "topic": "travel",
+        "image": "https://www.thethailandlife.com/wp-content/uploads/2023/05/mae-hon-song-accomodation.jpg",
+        "publisher": "BucketListly Blog",
+        "date": "September 08, 2023"
+    },
+    {
+        "id": 7,
+        "title": "Google Pixel 8 and Pixel 8 Pro hands-on: Generative AI and a temperature sensor on your phone",
+        "description": "Google's latest flagships bring some novel features to smartphones.",
+        "caption": "Google's latest flagships bring some novel features to smartphones.",
+        "topic": "tech",
+        "image": "https://s.yimg.com/uu/api/res/1.2/Ry2Gf_OAvlLUUqrCYW8yUQ--~B/Zmk9Zml0O2g9NDY5O3B5b2ZmPTA7dz03MDM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/55f1aa70-62c3-11ee-afff-128e567b642a.cf.webp",
+        "publisher": "Engadget",
+        "date": "October 4, 2023"
+    },
+    {
+        "id": 8,
+        "title": "6 Days Backpacking Bosnia And Herzegovina Itinerary In 2023",
+        "description": "Looking to explore Bosnia and Herzegovina, one of the most diverse and interesting countries in the Balkans filled with untouched natural wonders and often-forgotten history, but not sure where to begin? You are in the right place.",
+        "caption": "A Complete Travel Guide",
+        "topic": "travel",
+        "image": "https://www.mywanderlust.pl/wp-content/uploads/2017/05/visit-bosnia-herzegovina-pictures-80.jpg",
+        "publisher": "BucketListly Blog",
+        "date": "August 04, 2023"
+    },
+    {
+        "id": 9,
+        "title": "10 Best Things To Do In Pula In 2023",
+        "description": "Did you know that there is a well-preserved Roman ruin in Croatia? I definitely did not know about it until I arrived in Pula and see its incredible ancient arena, located just off the coast of the Adriatic Sea but if you start looking at the map, you will realize immediately why that is the case.",
+        "caption": "A Complete Guide To Backpacking Pula",
+        "topic": "travel",
+        "image": "https://th.bing.com/th/id/OIP.FPqX7WwZ_MWZI_mVO0BVbQHaFj?pid=ImgDet&rs=1",
+        "publisher": "BucketListly Blog",
+        "date": "August 07, 2023"
+    },
+    {
+        "id": 10,
+        "title": "Fake Safari and Chrome Updates Infecting Macs with AMOS Malware",
+        "description": "The early signs of AMOS threats were reported in March and April. In September, the security researchers at Malwarebytes discovered that Mac users were tricked into installing AMOS via fake Google Search Ads. Now, Malwarebytes reports that AMOS is injected into Macs using compromised websites to deliver fake Safari and Chrome updates. This fake browser update chain is labeled as “ClearFake”, and was previously seen against Windows as well. Let’s see how to spot fake updates and avoid the AMOS threat on Macs. First spotted in early 2023, a potent malware called Atomic macOS Stealer (AMOS) has become a growing threat. It’s a powerful piece of malware that targets Apple users and tricks them into installing the software on their machines. Once installed, it can steal iCloud Keychain passwords, credit card information, files, and more. And now, in the latest iteration, AMOS is being delivered to Mac users via fake Safari and Chrome updates.",
+        "topic": "tech",
+        "image": "https://beebom.com/wp-content/uploads/2023/11/Amos-Malware-Mac.jpg?quality=75&strip=all",
+        "publisher": "Beebom",
+        "date": "November 22, 2023"
+    }
+]

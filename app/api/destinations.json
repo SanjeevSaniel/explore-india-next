@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "code": "OD",
+        "destinations": [
+            {
+                "name": "Konark",
+                "image": "https://images.pexels.com/photos/6040175/pexels-photo-6040175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            },
+            {
+                "name": "Bhubaneswar",
+                "image": "https://media.istockphoto.com/id/1445713458/photo/view-of-indian-cityscape-as-seen-from-the-top-of-udayagiri-caves-at-bhubaneswar-india.jpg?s=1024x1024&w=is&k=20&c=sIzJWpIn5x2XYy0mSBS6s93Qnzi_nZVrWl4tdXwzdZQ="
+            },
+            {
+                "name": "Puri",
+                "image": "https://media.istockphoto.com/id/1445713458/photo/view-of-indian-cityscape-as-seen-from-the-top-of-udayagiri-caves-at-bhubaneswar-india.jpg?s=1024x1024&w=is&k=20&c=sIzJWpIn5x2XYy0mSBS6s93Qnzi_nZVrWl4tdXwzdZQ="
+            },
+            {
+                "name": "Raurkela"
+            },
+            {
+                "name": "Brahmapur"
+            },
+            {
+                "name": "Gopalpur"
+            },
+            {
+                "name": "Koraput"
+            },
+            {
+                "name": "Cuttack"
+            }
+        ]
+    }
+]
