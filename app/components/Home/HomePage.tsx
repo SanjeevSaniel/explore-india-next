@@ -1,7 +1,7 @@
 import NavBar from "../../NavBar/NavBar";
 
 import TopContent from "./TopContent";
-import Destinations from "./Destinations";
+import Territories from "./Destinations";
 import HomePagePlaybacks from "./HomePagePlaybacks";
 
 import ExploreLink from "./ExploreLink";
@@ -37,7 +37,7 @@ const HomePage = () => {
       </div>
 
       <HomePagePlaybacks />
-      <Destinations />
+      <Territories />
       <TopContent />
     </div>
   );

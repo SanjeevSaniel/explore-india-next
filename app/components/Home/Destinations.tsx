@@ -2,7 +2,7 @@ import states from "../../api/states.json";
 import { HeadingTwo } from "./Titles";
 import Link from "next/link";
 
-const Destinations = () => {
+const Territories = () => {
   states.sort((a, b) => {
     let fa = a.name.toLowerCase(),
       fb = b.name.toLowerCase();
@@ -23,9 +23,7 @@ const Destinations = () => {
         {states.map((state, index) => {
           return (
             <Link key={state.code} href={`s&ut/${state.code}`}>
-              <span
-                className="capitalize border-0 border-orange-600 rounded-lg px-2 py-1 w-fit drop-shadow-xs cursor-pointer hover:bg-orange-600 hover:border-orange-600 hover:text-white transition-colors duration-200 ease-in-out"
-              >
+              <span className="capitalize border-0 border-orange-600 rounded-lg px-2 py-1 w-fit drop-shadow-xs cursor-pointer hover:bg-orange-600 hover:border-orange-600 hover:text-white transition-colors duration-200 ease-in-out">
                 <span className="text-orange-600">{index + 1}.</span>
                 {state.name}
               </span>
@@ -37,4 +35,4 @@ const Destinations = () => {
   );
 };
 
-export default Destinations;
+export default Territories;
